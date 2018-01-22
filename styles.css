@@ -81,7 +81,6 @@ header .profile-image:hover {
   transform: scale(1.2) rotate(360deg);
 }
 .tag {
-  background-color: none;
   color: #5D5C5B;
   font-family: "Comic Sans MS", cursive, sans-serif;
   padding: 10px;
