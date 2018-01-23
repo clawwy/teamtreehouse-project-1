@@ -56,7 +56,7 @@ a:hover {
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
 .nav a:hover {
-  color: white
+  color: #CD5C5C;
 }
 
 header {
@@ -91,6 +91,7 @@ header .profile-image:hover {
 .location {
   background-color: #ffffff;
   color: #8D8C8C;
+  font-style: italic;
 }
 .card {
   margin: 30px;
